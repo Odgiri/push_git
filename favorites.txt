@@ -1,3 +1,6 @@
 apple
 walnut
 almond
+jailer
+robot
+2.o
